@@ -4,7 +4,7 @@ import time
 
 # ========== 1. إعدادات الصفحة ==========
 st.set_page_config(
-    page_title="📄 محلل السيرة الذاتية الذكي",
+    page_title="📄 R",
     page_icon="📄",
     layout="wide",
     initial_sidebar_state="collapsed"
